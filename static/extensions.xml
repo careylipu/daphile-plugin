@@ -1,4 +1,4 @@
- j<extensions>
+<extensions>
   <applets>
     <applet name="EnhancedDigitalOutput" creator="Triode" email="ralph.irving@gmail.com" maxTarget="*" minTarget="7.7" sha="83ab262ea6c5af6f72ef01ec6d8ea911cf662a92" target="fab4" url="http://ralph.irving.sdf.org/edo/EnhancedDigitalOutput-v0.10.zip" version="0.10">
       <desc lang="EN">数字输出支持外部USB DAC和高达192 kHz的采样率。注意：此应用程序将安装一个定制的Linux内核。当使用USB/DIGITAL OUT时，它还将禁用模拟。</desc>
